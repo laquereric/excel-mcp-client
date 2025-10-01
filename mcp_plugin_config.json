@@ -1,0 +1,8 @@
+{
+  "auto_refresh": false,
+  "refresh_interval_seconds": 300,
+  "show_disconnected_servers": true,
+  "max_items_per_capability": 100,
+  "cli_timeout_seconds": 30,
+  "cli_path": "manus-mcp-cli"
+}
